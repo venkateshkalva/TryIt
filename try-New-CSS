@@ -1,0 +1,26 @@
+button {
+padding: 14px 28px;
+color: #6e6e6e;
+font-size: 24px;
+font-weight: 600;
+font-family:
+"Trebuchet MS",
+"Lucida Sans Unicode"
+"Lucida Sans", Arial, sans-serif;
+border: none;
+border-radius: 12px;
+outline: none;
+background: #ebe7e7;
+box-shadow: 4px 4px 10px rgba(0, 0,
+0,
+0.2),
+-4px -4px 10px rgba(255, 255,
+255,
+0.8);
+transition: all 0.3s;
+}
+button: hover {
+box-shadow: inset 4px 4px 10px rgba(0, 0, 0,
+0.2),
+inset -4px -4px 10px rgba(255, 255, 255, 0.8);
+cursor: pointer;}
